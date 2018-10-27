@@ -1,0 +1,33 @@
+.jumbotron {
+    background-color: lightgreen;
+    color: cyan;
+}
+
+body {
+    background-color: #777;
+}
+
+p {
+    color: white;
+}
+
+.rules {
+    font-size: 36px;
+    color: blue;
+}
+
+h2 {
+    color: #47b8c0;
+    font-size: 28px;
+}
+
+#wins, h3 {
+    color: purple;
+    font-size: 18px;
+}
+
+#losses, .text-left {
+    color: white;
+    font-size: 18px;
+
+}
